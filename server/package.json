@@ -1,0 +1,11 @@
+{
+	"name": "react-mongo-multer-server",
+	"version": "1.0.0",
+	"description": "node express server for react app, that uses multer to store file in mongoDB",
+	"main": "server.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Sadnan Saquif",
+	"license": "MIT"
+}
